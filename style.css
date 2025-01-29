@@ -66,7 +66,7 @@
 }
 
 .menu {
-  margin-left: 420px;
+  /* margin-left: 420px; */
 
 }
 
@@ -535,9 +535,10 @@
   }
 
   .accont-links-div {
-    bottom: 0px;
-    width: 100%;
-    left: 0px;
+    bottom: 4px;
+    width: 98%;
+    left: 2px;
+    right: 2px;
     flex-direction: row;
     height: 70px;
     gap: 40px;
