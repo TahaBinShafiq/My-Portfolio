@@ -536,7 +536,7 @@
 
   .accont-links-div {
     bottom: 0px;
-    width: 375px;
+    width: 100%;
     left: 0px;
     flex-direction: row;
     height: 70px;
